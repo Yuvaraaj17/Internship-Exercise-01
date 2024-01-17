@@ -1,0 +1,27 @@
+{
+    "capitals": [
+        {
+            "capital": "Lansing",
+            "state": "Michigan"
+        },
+        {
+            "capital": "Sacramento",
+            "state": "California"
+        },
+        {
+            "capital": "Austin",
+            "state": "Texas"
+        },
+        {
+            "capital": "Madison",
+            "state": "Wisconsin"
+        },
+        {
+            "capital": "Phoenix",
+            "state": "Arizona"
+        }
+    ],
+    "summary": {
+        "numberOfCapitals": 5
+    }
+}
